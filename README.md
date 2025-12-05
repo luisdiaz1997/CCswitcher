@@ -4,7 +4,14 @@ A CLI tool to easily switch between different API settings for Claude Code. Perf
 
 ## Installation
 
-Install the package in editable mode:
+
+Install the package from pip:
+
+```bash
+pip install ccswitcher
+```
+
+Install the package locally:
 
 ```bash
 pip install -e .
