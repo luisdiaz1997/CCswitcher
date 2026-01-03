@@ -12,7 +12,7 @@ setup(
     description="CLI tool to switch between different Claude Code API settings",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/ccswitcher",
+    url="https://github.com/luisdiaz1997/ccswitcher",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
